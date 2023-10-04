@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![Codewars stats](https://www.codewars.com/users/Van4e3_WT/badges/large)](https://www.codewars.com/users/Van4e3_WT)
 <!--
 **Van4e3WT/Van4e3WT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
